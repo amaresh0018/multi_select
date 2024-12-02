@@ -54,6 +54,10 @@
     "displayName": "multi-select",
     "description": "select the multiple option"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amaresh0018/multi_select"
+  },
   "name": "multi-select",
   "description": "select the multiple option",
   "license": "MIT",
