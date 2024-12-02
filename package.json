@@ -58,7 +58,7 @@
     "type": "git",
     "url": "https://github.com/amaresh0018/multi_select"
   },
-  "name": "multi-select@nextpage",
+  "name": "@nextpage/multi-select",
   "description": "select the multiple option",
   "license": "MIT",
   "author": "amaresh0018 <amaresh.m@nextpagetechnologies.com>"
