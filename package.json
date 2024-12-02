@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amaresh0018/multi_select"
+    "url": "git+https://github.com/amaresh0018/multi_select.git"
   },
   "name": "@nextpage/multi-select",
   "description": "select the multiple option",
